@@ -2,10 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Tattooed banh mi bespoke DIY salvia, fixie fap banjo Thundercast Odd
-Future forage. Whatever yr synth, brunch occupy church-key chillwave
-
-Tattooed banh mi bespoke DIY salvia, fixie fap banjo Thundercast Odd
-Future forage. Whatever yr synth, brunch occupy church-key chillwave
+1. index.html
